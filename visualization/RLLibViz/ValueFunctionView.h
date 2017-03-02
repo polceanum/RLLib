@@ -14,7 +14,7 @@
 #include <QHBoxLayout>
 #include <QPixmap>
 
-#include "Math.h"
+//#include "Math.h"
 #include "ViewBase.h"
 #include "Mat.h"
 
